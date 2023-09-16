@@ -1,7 +1,5 @@
 ### Hi there 👋❤️
-
-<!--
-This is Gokul. I work as a senior Web app developer and Backend developer for several platforms and languages. 
+  This is Gokul. I work as a senior Web app developer and Backend developer for several platforms and languages. 
 I am very flexible resource and committed to learning new technology and I like Agile methodology.
 
 - 🌱 I’m currently learning  Hugo Static Site Generator
@@ -10,4 +8,3 @@ I am very flexible resource and committed to learning new technology and I like 
 - 📫 How to reach me: gokul@tridentnets.in and gokulakannanraj@gmail.com
 - 😄 Pronouns: Gokul
 - ⚡ Fun fact: Listening to Music and singing
--->
