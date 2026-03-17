@@ -33,7 +33,7 @@ I’m a passionate Full-Stack Developer with hands-on experience building scalab
 
 ## 💬 Ask Me About
 
-- Frontend & Backend Technologies: `PHP`, `Laravel`, `Node.js`, `Go`, `React`, `Tailwind`, `Bootstrap`, `JS`, `Blade`
+- Frontend & Backend Technologies: `PHP`, `Laravel`, `Node.js`,`Python`, `Go`, `React`, `Tailwind`, `Bootstrap`, `JS`, `Blade`
 - Databases: `MySQL`, `PostgreSQL`, `SQL Server`, `Firebase`, `MongoDB`
 - Tools & Platforms: `GitHub`, `Bitbucket`, `JIRA`, `AWS`, `GCP`, `CI/CD`, `DevOps`
 
